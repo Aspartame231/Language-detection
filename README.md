@@ -1,6 +1,7 @@
 # Language Detection of Indian Regional Languages based on Audio
 
-![Language Detection Logo](url_to_logo.png) <!-- If you have a logo, place its URL here -->
+<img align="right" alt="img" width="400" src="https://raw.githubusercontent.com/Aspartame231/Language-detection/main/hin.jpg" >
+
 
 Language Detection of Indian Regional Languages based on Audio is a project that aims to identify and classify Indian regional languages spoken in audio recordings. It provides tools and models for automatically recognizing the language from the audio content, enabling applications like voice assistants, transcription services, and more.
 
